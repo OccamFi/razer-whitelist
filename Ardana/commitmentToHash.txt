@@ -1,0 +1,1 @@
+We will use for random seed the ID of the first block in Cardano blockchain after 10:35 am UTC 03.11.2021.
